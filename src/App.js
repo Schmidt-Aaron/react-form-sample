@@ -1,9 +1,10 @@
 import React from "react";
 import { render } from "react-dom";
+import UserForm from "./components/UserForm";
 
 class App extends React.Component {
   render() {
-    return <h1>React is running!</h1>;
+    return <UserForm />;
   }
 }
 

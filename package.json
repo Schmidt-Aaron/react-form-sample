@@ -1,8 +1,8 @@
 {
-  "name": "react-boilerplate",
+  "name": "react-form-sample",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "App.js",
   "scripts": {
     "test": "",
     "format": "prettier --write \"src/**/*.{js,jsx}\"",
@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "material-ui": "^0.20.2",
     "react": "^16.6.0",
     "react-dom": "^16.6.0"
   },
